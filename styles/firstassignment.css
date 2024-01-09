@@ -1,0 +1,39 @@
+/*header related styles*/
+.header {
+    background-color: #FFF;
+    background-repeat: no-repeat;
+    background-position: top;
+
+}
+
+.banner {
+    background-image: url('../resources/Banner\ Image.png');
+    align-items: center;
+    width: 1320px;
+    height: 600px;
+    border: 16px;
+    margin-left: 250px;
+}
+
+
+h3 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 300;
+    padding-top: 150px;
+}
+
+h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    margin-left: 340px;
+    margin-bottom: 584px;
+    width: 632px;
+
+}
